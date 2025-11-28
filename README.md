@@ -84,7 +84,7 @@ Se implementaron pruebas exhaustivas para verificar la fiabilidad del código:
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone <[URL_DEL_REPOSITORIO](https://github.com/PastFlex/Deber_POO4.git)>
     ```
 
 2.  **Abrir en el IDE:**
